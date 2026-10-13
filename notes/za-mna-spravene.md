@@ -1,0 +1,1 @@
+- 2026-10-13: `README.md` pre 01-premenne, časť A (zadanie napísal Claude)
